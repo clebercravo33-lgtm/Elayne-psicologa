@@ -1,0 +1,10 @@
+{
+  "name": "Agenda Elayne",
+  "short_name": "Agenda Elayne",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFF5F7",
+  "theme_color": "#FF8FA3",
+  "lang": "pt-BR",
+  "icons": []
+}
